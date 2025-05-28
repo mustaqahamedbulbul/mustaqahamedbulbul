@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I'm a Software Engineer enthugiast...
+I'm a Machine Learning enthugiast...
 
 
 ## 🔗 Links
