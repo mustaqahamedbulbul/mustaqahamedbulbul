@@ -16,7 +16,7 @@ I'm a Machine Learning enthugiast...
 
 ## Other Common Github Profile Sections
 
-🧠 I'm currently learning...Mobile App Development. 
+🧠 I'm currently learning...Federated Learning. 
 
 💬 Ask me about...Tech Stacks.
 
